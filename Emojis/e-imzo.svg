@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="1000px" viewBox="0 0 1000 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Xinux Manager</title>
+    <g id="Xinux-Manager" stroke="none" fill="none" fill-rule="evenodd" stroke-width="1">
+        <g id="Group" transform="translate(66, 66)">
+            <polygon id="Path" fill="#5277C3" fill-rule="nonzero" points="201.232527 328.990817 439 265.216201 423.210499 206.229125 326.019682 180.160351 234.499789 204.708121 281.575765 28.8400083 174.053123 0 30 538.159992 137.522642 567"></polygon>
+            <polygon id="Path" fill="#7CAEDC" fill-rule="nonzero" points="661.770875 423.210499 687.839649 326.019682 663.291879 234.499789 839.159992 281.575765 868 174.053123 329.840008 30 301 137.522642 539.009183 201.232527 602.783799 439"></polygon>
+            <polygon id="Path" fill="#5277C3" fill-rule="nonzero" points="838 329.840008 730.477358 301 666.767473 539.009183 429 602.783799 444.789501 661.770875 541.980318 687.839649 633.500211 663.291879 586.424235 839.159992 693.946877 868"></polygon>
+            <polygon id="Path" fill="#7CAEDC" fill-rule="nonzero" points="567 730.477358 328.990817 666.767473 265.216201 429 206.229125 444.789501 180.160351 541.980318 204.708121 633.500211 28.8400083 586.424235 0 693.946877 538.159992 838"></polygon>
+        </g>
+    </g>
+</svg>
